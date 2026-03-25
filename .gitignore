@@ -1,0 +1,19 @@
+# Python virtual env
+Backend/Env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+Frontend/planner_frontend/node_modules/
+Frontend/planner_frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp / Office lock files
+~$*
+*.tmp
